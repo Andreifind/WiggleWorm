@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu2.unity
+    guid: 54e10b97d461c19478ba8694150b4578
+  - enabled: 1
+    path: Assets/Scenes/PaladinTest.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TrollMenu.unity
+    guid: e2881af15a57dfe439f8129670f8650c
+  - enabled: 1
+    path: Assets/Scenes/VotingScene.unity
+    guid: 6c4317096bd269443b3f685355ab6988
+  - enabled: 1
+    path: Assets/Scenes/ShopV2.unity
+    guid: 09fe682d370da7645989747294c2b5fa
+  m_configObjects: {}

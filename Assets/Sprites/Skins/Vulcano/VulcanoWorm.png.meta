@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 443589348937898489764564bf39c783
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8923388439763445194
+    second: VulcanoWorm_0
+  - first:
+      213: 5625538283949279317
+    second: VulcanoWorm_1
+  - first:
+      213: 2558826806540325132
+    second: VulcanoWorm_2
+  - first:
+      213: 1686290434183933286
+    second: VulcanoWorm_3
+  - first:
+      213: 7710329219153119337
+    second: VulcanoWorm_4
+  - first:
+      213: 5750945433255343709
+    second: VulcanoWorm_5
+  - first:
+      213: 3106141004883734121
+    second: VulcanoWorm_6
+  - first:
+      213: 8969501492283022882
+    second: VulcanoWorm_7
+  - first:
+      213: -3775956237723605255
+    second: VulcanoWorm_8
+  - first:
+      213: -8559199587954339894
+    second: VulcanoWorm_9
+  - first:
+      213: 1334995943189151718
+    second: VulcanoWorm_10
+  - first:
+      213: 2022404673138314053
+    second: VulcanoWorm_11
+  - first:
+      213: 361087737311419009
+    second: VulcanoWorm_12
+  - first:
+      213: -6290796012937771842
+    second: VulcanoWorm_13
+  - first:
+      213: -1545000965312723592
+    second: VulcanoWorm_14
+  - first:
+      213: -3501889097039710686
+    second: VulcanoWorm_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VulcanoWorm_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a921ffd71c92480800000000000000
+      internalID: -8923388439763445194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558482d834de11e40800000000000000
+      internalID: 5625538283949279317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 61
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01559d5c67c28320800000000000000
+      internalID: 2558826806540325132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d2cad2738e66710800000000000000
+      internalID: 1686290434183933286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968cfe0e297900b60800000000000000
+      internalID: 7710329219153119337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f6d7d6667fcf40800000000000000
+      internalID: 5750945433255343709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 61
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eae5279ca3b1b20800000000000000
+      internalID: 3106141004883734121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9dd3b5121a7c70800000000000000
+      internalID: 8969501492283022882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66013cecb199bc0800000000000000
+      internalID: -3775956237723605255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfcf46c25d973980800000000000000
+      internalID: -8559199587954339894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef706abcbbd68210800000000000000
+      internalID: 1334995943189151718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bcf76c556011c10800000000000000
+      internalID: 2022404673138314053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a523b4267d20500800000000000000
+      internalID: 361087737311419009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb486663b5a92b8a0800000000000000
+      internalID: -6290796012937771842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87546eccecd0f8ae0800000000000000
+      internalID: -1545000965312723592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulcanoWorm_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22672288b6ac66fc0800000000000000
+      internalID: -3501889097039710686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

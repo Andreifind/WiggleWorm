@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 42caf03c9ef1c614b913b505c175f9d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5202569584069231916
+    second: WaterWorm_0
+  - first:
+      213: -3589688032982815624
+    second: WaterWorm_1
+  - first:
+      213: -6930819302610969589
+    second: WaterWorm_2
+  - first:
+      213: 6528625847357724406
+    second: WaterWorm_3
+  - first:
+      213: 4059679569734483467
+    second: WaterWorm_4
+  - first:
+      213: 6362707645988554146
+    second: WaterWorm_5
+  - first:
+      213: -1679042024685750503
+    second: WaterWorm_6
+  - first:
+      213: -6444622119353714403
+    second: WaterWorm_7
+  - first:
+      213: -908100715320932000
+    second: WaterWorm_8
+  - first:
+      213: -969815298569910142
+    second: WaterWorm_9
+  - first:
+      213: 4967374673028672704
+    second: WaterWorm_10
+  - first:
+      213: 7967464320034728375
+    second: WaterWorm_11
+  - first:
+      213: 4354106621054540113
+    second: WaterWorm_12
+  - first:
+      213: 2073346812720988195
+    second: WaterWorm_13
+  - first:
+      213: 5086209747203240228
+    second: WaterWorm_14
+  - first:
+      213: 7255025118384155143
+    second: WaterWorm_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterWorm_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c2b9e87d333840800000000000000
+      internalID: 5202569584069231916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca693c0cdde2ec0800000000000000
+      internalID: -3589688032982815624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 61
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cd379b098c0df90800000000000000
+      internalID: -6930819302610969589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d0373e965a9a50800000000000000
+      internalID: 6528625847357724406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3fef3f01e65830800000000000000
+      internalID: 4059679569734483467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 61
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a54fc894e0ec4850800000000000000
+      internalID: 6362707645988554146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 61
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91737abac28d2b8e0800000000000000
+      internalID: -1679042024685750503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 61
+        width: 8
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19fb48d35a1096a0800000000000000
+      internalID: -6444622119353714403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698403f537c563f0800000000000000
+      internalID: -908100715320932000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288400fcf168a82f0800000000000000
+      internalID: -969815298569910142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc652462f8afe440800000000000000
+      internalID: 4967374673028672704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e44ce59e129e60800000000000000
+      internalID: 7967464320034728375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 10
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d12e17e4ec6c30800000000000000
+      internalID: 4354106621054540113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204c6ce0f106cc10800000000000000
+      internalID: 2073346812720988195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 7
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421bd2331d8d59640800000000000000
+      internalID: 5086209747203240228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWorm_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.04444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae2d908e60fa460800000000000000
+      internalID: 7255025118384155143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
